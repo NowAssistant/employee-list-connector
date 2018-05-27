@@ -1,0 +1,8 @@
+ServiceName: employee
+InterfaceName: item
+Description: employee get by id
+APIDoc: ''
+Interfaces: ''
+RequiredScopes: ''
+AdditionalParameters: 
+Method: ''
